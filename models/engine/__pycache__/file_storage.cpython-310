@@ -1,0 +1,120 @@
+o
+
+ )zDefines the FileStorage class.é    N)o
+
+Ú	BaseModel)o
+
+ÚUser)o
+
+ÚState)o
+
+ÚCity)o
+
+ÚPlace)o
+
+Úmenity)o
+
+ )ÚileStoragezÁRepresent an abstracted storage engine.
+
+    Attributes:
+        __file_path (str): The name of the file to save objects to.
+        __objects (dict): A dictionary of instantiated objects.
+    z	file.jsonc )zDefines the FileStorage class.é    N)o
+
+Ú	BaseModel)o
+
+ÚUser)o
+
+ÚState)o
+
+ÚCity)o
+
+ÚPlace)o
+
+Úmenity)o
+
+ÚR            )zDefines the FileStorage class.é    N)o
+
+Ú	BaseModel)o
+
+ÚUser)o
+
+ÚState)o
+
+ÚCity)o
+
+ÚPlace)o
+
+Úmenity)o
+
+ÚR    )zDefines the FileStorage class.é    N)o
+
+Ú	BaseModel)o
+
+ÚUser)o
+
+ÚState)o
+
+ÚCity)o
+
+ÚPlace)o
+
+Úmenity)o
+
+ÚR   C   s   t j )zDefines the FileStorage class.é    N)o
+
+Ú	BaseModel)o
+
+ÚUser)o
+
+ÚState)o
+
+ÚCity)o
+
+ÚPlace)o
+
+Úmenity)o
+
+ÚRS ) )zDefines the FileStorage class.é    N)o
+
+Ú	BaseModel)o
+
+ÚUser)o
+
+ÚState)o
+
+ÚCity)o
+
+ÚPlace)o
+
+Úmenity)o
+
+_FileStorage__objects) )zDefines the FileStorage class.é    N)o
+
+Ú	BaseModel)o
+
+ÚUser)o
+
+ÚState)o
+
+ÚCity)o
+
+ÚPlace)o
+
+Úmenity)o
+
+ÚRÚself© r   ú@/home/lexxyla/Desktop/AirBnB_clone/models/engine/file_
+cnamer   r   r
+ )z1Serialize __objects to the JSON file __file_path.ccnamer   r   r
+           e         s  
+ad'   s   e
+eeeeý&þeÿzileStorage.reloadN)
+reloadN   Ú
+__module__Ú__qualname__Ú_doc__
+.cityr   Zmodels.placer   Zmodels.amenityr  Z
+models.review   r	   r   r   r   r
+   <module>
+s   
+
+
+

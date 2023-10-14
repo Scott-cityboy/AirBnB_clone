@@ -1,0 +1,267 @@
+o
+
+ )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+ )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+ t 
+| ¡ )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d   Ú
+created_atÚ
+ÚkwargsZtformÚ t 
+| ¡ )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d   Ú
+created_atÚ
+kÚ t 
+| ¡ )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d   Ú
+created_atÚ
+v© r   ú7/home/lexxyla/Desktop/AirBnB_clone/models/base_model.py__init__  s    t 
+| ¡ )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d   Ú
+created_atÚ
+
+ t 
+| ¡ )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d   Ú
+created_atÚ
+
+ t 
+| ¡ )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d   Ú
+created_atÚ
+ t 
+| ¡ )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d   Ú
+created_atÚ
+created_atÚ t 
+| ¡ )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d   Ú
+created_atÚ
+created_atÚ t 
+| ¡ )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d   Ú
+created_atÚ
+	 t 
+| ¡ )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d   Ú
+created_atÚ
+üzaseModel.__init__c t 
+| ¡ )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d   Ú
+created_atÚ
+            t 
+| ¡ )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d dS )zInitialize a new BaseModel.
+
+        Args:
+            *args (any): Unused.
+            **kwargs (dict): Key/value pairs of attributes.
+		z%Y-%m-%dT%H:%M:%S.%fr )	BaseModelz-Represents the BaseModel of the HBnB project.c )Defines the BaseModel class.é    N)o
+
+Úuuid4)o
+
+datetimec                   @   s0                 O   s„   d   Ú
+created_atÚ
+   C   save)r   r   r      r      s   
+ncludes the key/value pair __class__ representing
+        the class name of the object.
+        r   r   Ú	__class__)
+Úcopyr   Z	isoformatr   r   __name__)r   Zrdictr   r      Úo_dict$   s
+   
+Definesave)r   r   r      r      s   
+DefineszaseModelBaseModel.savec           Definesave)r   r   r      r      s   
+DefineszaseModelBaseModel.savec           ave)r   r   r      r      s   
+DefineszaseModelBaseModel.savec           ave)r   r   r      r      s   
+DefineszaseModelBaseModel.savec           zBaseModel.to_dictcave)r   r   r      r      s   
+DefineszaseModelBaseModel.savec                            C   s   | j jave)r   r   r      r      s   
+DefineszaseModelBaseModel.savec           Definestr representation of the BaseModel instance.z[{}] ({}) {})r   r   Úformat   r
+)r   Zclnamer   r      Ú_str__0   s  zBaseModel.__str__Nr   Ú
+__module__Ú__qualname__Ú_doc__r   r    r   r   r   r   r      r     s   zaseModelBaseModel.savec           
